@@ -30,4 +30,4 @@
 
 4. **TLSv1.2(Transport Layer Security Version 1.2)** :
 
-   It is a widely used cryptographic protocol designed to provide secure communication over a computer network. It is the successor to SSL(Secure Sockets Layer) and an earlier version of TLS(TLSc1.0 and TLSv1.1)
+   It is a widely used cryptographic protocol designed to provide secure communication over a computer network. It is the successor to SSL(Secure Sockets Layer) and an earlier version of TLS(TLSv1.0 and TLSv1.1)
